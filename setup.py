@@ -8,5 +8,5 @@ setup(name='Devon_test',
       download_url = 'https://github.com/brinnaebent/wearablevar/archive/0.4.tar.gz',
       author='Devon Martin',
       author_email='dmarti22@ncsu.edu',
-      install_requires=['pandas','numpy',],
+      install_requires=['pandas','numpy']
 )
