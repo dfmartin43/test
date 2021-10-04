@@ -6,5 +6,5 @@ setup(name='My_test',
       description='A Test Document',
       url='https://github.com/dfmartin43/test',
       download_url = 'https://github.com/dfmartin43/test.git',
-      install_requires=['pandas','numpy']
+      install_requires=['pandas','numpy',]
 )
