@@ -1,5 +1,6 @@
 from distutils.core import setup
 setup(name='test',
       version='1.0',
-      py_modules=['testUIOP'],
+      #py_modules=['testUIOP'],
+      packages=['testUIOP'],
       )
