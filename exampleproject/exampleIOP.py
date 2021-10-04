@@ -1,3 +1,3 @@
-def add202(x):
-  y = x + 2
+def print_a_joke():
+  print("HELP ME")
   return(y)
