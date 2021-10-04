@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-setup(name='Devon_test',
+setup(name='My_test',
       packages = ['test'],
       version='0.1',
       description='A Test Document',
